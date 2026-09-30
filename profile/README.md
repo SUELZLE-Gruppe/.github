@@ -18,7 +18,3 @@ Deutschland
 🔒 [Datenschutzerklärung](https://suelzle-gruppe.de/datenschutz/)
 
 Diese Seite wird über GitHub, Inc. (bzw. GitHub B.V. für Nutzer in der EU) gehostet. Beim Besuch dieser Organisationsseite verarbeitet GitHub als eigenständiger Verantwortlicher personenbezogene Daten (z. B. IP-Adresse, Zugriffszeit, Cookies). Informationen dazu findest du in der [Datenschutzerklärung von GitHub](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
-
-Bei Fragen zum Datenschutz wende dich an unseren Datenschutzbeauftragten:
-Steffen Wacker
-📧 datenschutz@suelzle-gruppe.de
