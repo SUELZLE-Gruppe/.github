@@ -1,11 +1,3 @@
-# SÜLZLE Gruppe
-
-Stahl | Energie | Ideen – seit 1880 ein familiengeführtes Unternehmen mit rund 1.000 Beschäftigten an über 30 Standorten in Deutschland und Frankreich.
-
-🔗 [suelzle-gruppe.de](https://suelzle-gruppe.de/)
-
----
-
 ## Rechtliche Hinweise
 
 **Verantwortlich für diese GitHub-Organisation:**<br>
